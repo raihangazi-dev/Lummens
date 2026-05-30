@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-01\\Challenge\\Challenge.csproj": {}
+    "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-02\\Challenge\\Challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-01\\Challenge\\Challenge.csproj": {
+    "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-02\\Challenge\\Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-01\\Challenge\\Challenge.csproj",
+        "projectUniqueName": "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-02\\Challenge\\Challenge.csproj",
         "projectName": "Challenge",
-        "projectPath": "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-01\\Challenge\\Challenge.csproj",
+        "projectPath": "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-02\\Challenge\\Challenge.csproj",
         "packagesPath": "C:\\Users\\abulk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-01\\Challenge\\obj\\",
+        "outputPath": "C:\\Users\\abulk\\OneDrive\\Desktop\\Lummens\\OOP\\Session-02\\Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
